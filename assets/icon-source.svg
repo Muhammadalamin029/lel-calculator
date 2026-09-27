@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background / Adaptive Icon Safe Area -->
+  <rect width="512" height="512" fill="#080808"/>
+
+  <!-- Calculator Silhouette -->
+  <rect x="86" y="66" width="340" height="380" rx="36" fill="#121212" stroke="#D4AF37" stroke-width="10"/>
+
+  <!-- Main Display Screen -->
+  <rect x="132" y="116" width="248" height="85" rx="12" fill="#FFFFFF"/>
+
+  <!-- Brand LEL & Screen Output -->
+  <text x="146" y="144" font-family="sans-serif" font-size="18" font-weight="900" fill="#AAAAAA" letter-spacing="1">LEL</text>
+  <text x="364" y="180" font-family="sans-serif" font-size="48" font-weight="bold" fill="#000000" text-anchor="end">80</text>
+
+  <!-- Keypad Grid (Flat & Geometric) -->
+  <rect x="132" y="230" width="75" height="75" rx="16" fill="#222222"/>
+  <rect x="218" y="230" width="75" height="75" rx="16" fill="#222222"/>
+  <rect x="305" y="230" width="75" height="75" rx="16" fill="#D4AF37"/>
+
+  <!-- Wide zero button and equals button -->
+  <rect x="132" y="320" width="161" height="75" rx="16" fill="#222222"/>
+  <rect x="305" y="320" width="75" height="75" rx="16" fill="#FFFFFF"/>
+
+  <!-- Operator Symbols -->
+  <!-- Plus (Subtle Gold Button) -->
+  <path d="M342.5 247.5 v40 M322.5 267.5 h40" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+  <!-- Equals (White Button) -->
+  <path d="M322.5 349 h40 M322.5 366 h40" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+</svg>
