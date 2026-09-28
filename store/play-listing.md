@@ -10,7 +10,7 @@ Simple calculator for everyday arithmetic. Fast, clean and fully offline.
 
 ## Full description (4000 chars max)
 
-LEL Calculator by LEL Store is a simple calculator for everyday arithmetic.
+LEL Calculator by LEL Store is a clean, fast tool for daily calculations.
 
 Add, subtract, multiply and divide, work with decimals and percentages, and
 keep going from your last result. Everything happens instantly on your device —
@@ -41,10 +41,32 @@ LEL Calculator does one thing and does it well: everyday arithmetic.
 
 Tools
 
-## Content rating (self-declared, verify in Play Console questionnaire)
+## Content rating
 
-Everyone. No user interaction, no content, no ads, no in-app purchases,
-no location or personal data access.
+Complete the IARC questionnaire in Play Console (expected outcome: Everyone).
+No user interaction, no content, no ads, no in-app purchases, no location or
+personal data access. Unrated apps are not allowed on Google Play, so this
+must be completed before release.
+
+## Play Console declarations (App content)
+
+- Financial features: none (the declaration form is still mandatory).
+- Ads: the app contains no ads — declare "No ads".
+- App access: no login; all functionality is available immediately.
+- Target audience: all ages.
+- Support email: [FILL IN — required, displayed on the listing].
+- Privacy policy URL: [FILL IN — the live Vercel URL].
+- Data Safety: complete the form — no data collected, no data shared
+  (mandatory even for no-data apps; must match the zero-permission manifest).
+
+## Graphics checklist (verify before upload)
+
+- Store icon `store/icon-512.png`: 512×512, 32-bit PNG.
+- Feature graphic `store/feature-graphic.png`: exactly 1024×500, no alpha.
+- Phone screenshots: minimum 2, maximum 8; JPEG or 24-bit PNG (no alpha);
+  9:16 or 16:9 aspect; each side 320–3840px. For promotion eligibility use
+  at least 4 shots with the short side at 1080px or more.
+- All graphics must show the real production UI — no mocks or edits.
 
 ## Data Safety (declare in Play Console)
 
